@@ -49,7 +49,7 @@ No additional NuGet packages required—the code uses System.Data.SqlClient.
 
 1. Run the executable:
    ```
-   ThreeTierGenerator.exe
+   AsyncInterfaceCodeGen.exe
    ```
 
 2. Enter database details:
